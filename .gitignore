@@ -1,0 +1,5 @@
+node_modules
+powersOfTau28_hez_final_*.ptau
+.DS_Store
+artifacts
+cache
